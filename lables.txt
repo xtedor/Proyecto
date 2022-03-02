@@ -1,0 +1,8 @@
+<div id="div2" class="row text-light text-center ">
+                                    <div class="col-md-1 bg-success">Bueno</div>
+                                    <div class="col-md-2 bg-warning">Moderado</div>
+                                    <div class="col-md-3 bg-orange">No es saludable para grupos sensibles</div>
+                                    <div class="col-md-2 bg-pink">Insalubre</div>
+                                    <div class="col-md-2 bg-purple">poco Saludable</div>
+                                    <div class="col-md-2 bg-vinot">Peligroso</div>
+                                </div>
